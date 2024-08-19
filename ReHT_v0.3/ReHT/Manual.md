@@ -1,9 +1,5 @@
 # ReHT (Responsive HTML Table)
 
-consertar esse manual. Atualizar a description
-Version 3.3
-
-
 ```
 Project Name: ReHT (Responsive HTML Table);
 Description: ReHT is a table generator with the current user especifications.
