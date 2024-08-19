@@ -1,14 +1,17 @@
 # ReHT (Responsive HTML Table)
 
-**Description:**  
+🔎 **Description:**  
 This project creates responsive tables using only JavaScript.
 
-**Project Status:**  
+💡 **Project Status:**  
 ✅ Completed
 
-**Technologies Used:**
+🔨 **Technologies Used:**
 - HTML/CSS
 - JavaScript
 
-**Author:**  
+📖 **Manual:**
+[Link](./ReHT_v0.3/ReHT/Manual.md)
+
+🙋‍♀️ **Author:**  
 [Jessie M. Bentes](https://github.com/LadyJessie19)
